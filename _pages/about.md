@@ -26,7 +26,7 @@ I am also a member of the [ColAI](https://github.com/Collaborative-AI)(an open-s
 - Spatio-Temporal data mining
 
 <div style="text-align: center; font-family: 'Lato', Verdana, Helvetica, sans-serif; color: #00008B;">
-    <a href="https://github.com/yourusername" style="color: #00008B; text-decoration: none;">GitHub</a>
+    <a href="https://github.com/xiyuLiang09" style="color: #00008B; text-decoration: none;">GitHub</a>
     &nbsp;|&nbsp;
     <a href="mailto:xiyuliang@std.uestc.edu.cn" style="color: #00008B; text-decoration: none;">Email</a>
 </div>
