@@ -32,3 +32,11 @@ I am currently working on building more efficient and reliable large language mo
     &nbsp;|&nbsp;
     <a href="mailto:xiyuliang@std.uestc.edu.cn" style="color: #00008B; text-decoration: underline;">Email</a>
 </div>
+
+<div style="font-family: 'Lato', Verdana, Helvetica, sans-serif; font-weight: 300;" markdown="1">
+  
+# Education
+- May, 2022 - Jul, 2022, NUS
+- Sep, 2021 - Jun, 2025 (expected), UESTC
+
+</div>
