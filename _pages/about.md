@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p style="text-align: center;">A photo from my trip to Singapore, with the Merlion statue beside me.</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
@@ -24,3 +24,8 @@ I am also a member of the [ColAI](https://github.com/Collaborative-AI)(an open-s
 - Large Language Models
 - Efficient and Trustworthy Machine Learning
 - Spatio-Temporal data mining
+
+>
+<div style="text-align: center; color: blue;">
+[GitHub](https://github.com/xiyuLiang09/) / [Email](xiyuliang@std.uestc.edu.cn)。
+</div>
