@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: ☺️ I'm organizing my projects and will release them soon...
 nav: true
 nav_order: 3
 display_categories: [computer vision, large language models]
@@ -11,9 +11,9 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
-  <div style="font-family: 'Lato', Verdana, Helvetica, sans-serif; font-weight: 300; font-size: 14px;">
+  /*div style="font-family: 'Lato', Verdana, Helvetica, sans-serif; font-weight: 300; font-size: 14px;">
     I'm organizing my projects and will release them soon...
-  </div>
+  </div>*/
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
