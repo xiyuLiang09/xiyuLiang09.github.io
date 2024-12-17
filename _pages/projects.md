@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: ☺️ I'm organizing my projects and will release them soon...
+description: ☺️ I'm organizing my projects and will release them soon... or you can find more information on my [GitHub](https://github.com/xiyuLiang09).
 nav: true
 nav_order: 3
 display_categories: [Computer Vision, Large Language Models]
