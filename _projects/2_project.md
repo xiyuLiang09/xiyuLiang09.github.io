@@ -2,13 +2,15 @@
 layout: page
 title: Xiexin-editor
 description: Online Editor based on Large-Small Model Collaboration
-img: assets/img/xiexin.jpg
+img: assets/img/xiexin.png
 importance: 1
 category: Large Language Models
 giscus_comments: true
 toc:
     sidebar: left
 ---
+
+✏️ The fastest way to explore the project —- visit our [website](http://xiexin-editor.cn/)!
 
 ### **Overview**  
 This is the **first** online editor in China, as we know, to integrate **AI assistance**, **online search**, and **multimodal data processing** capabilities. 
