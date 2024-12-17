@@ -5,7 +5,7 @@ permalink: /projects/
 description: ☺️ I'm organizing my projects and will release them soon...
 nav: true
 nav_order: 3
-display_categories: [computer vision, large language models]
+display_categories: [Computer Vision, Large Language Models]
 horizontal: false
 ---
 
