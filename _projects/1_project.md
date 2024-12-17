@@ -23,7 +23,8 @@ This project aims to address safety concerns in home environments by monitoring 
 ### Algorithms
 - **YOLOv7**: A state-of-the-art real-time object detection algorithm known for its speed and accuracy in identifying and localizing objects within images or videos. 
 - **PP-TinyPose**: A lightweight and efficient pose estimation model designed for real-time human keypoint detection, balancing accuracy and speed for edge and mobile devices. 
-- **SE-Net**: A neural network architecture that enhances feature representations by adaptively recalibrating channel-wise feature responses, improving model accuracy with minimal computational cost. 
+- **SE-Net**: A neural network architecture that enhances feature representations by adaptively recalibrating channel-wise feature responses, improving model accuracy with minimal computational cost.
+
 ---
 
 ### Video Demo
