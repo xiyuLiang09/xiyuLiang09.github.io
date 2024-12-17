@@ -21,7 +21,7 @@ The project aims to provide efficient solutions for students, professionals, and
 ### **Key Features**  
 - **Multimodal Data Support**: Handles images, videos, and audio seamlessly with a video frame extraction algorithm.  
 - **Tailored Prompts**: Designed and tested customized prompts to optimize outputs for different editing contexts.  
-- **Terminology Integration**: Utilizes professional terminology datasets and integrates large AI models with specialized knowledge bases using LangChain.  
+- **Terminology Integration**: Utilizes professional terminology datasets and integrates LLMs with specialized knowledge bases using LangChain.  
 
 ---
 
