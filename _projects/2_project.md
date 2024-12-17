@@ -2,7 +2,7 @@
 layout: page
 title: Xiexin-editor
 description: Online Editor based on Large-Small Model Collaboration
-img: assets/img/xiexin.jpg
+img: assets/img/xiexin.png
 importance: 1
 category: Large Language Models
 giscus_comments: true
