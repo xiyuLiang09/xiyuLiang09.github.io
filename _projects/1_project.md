@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Intelligent Child Home Monitoring System based on YOLO and Pose Recognition Models
-description: Led the development of a child home monitoring system combining deep learning models with full-stack software
-development, capable of detecting hazards and recognizing window-climbing postures to prevent accidents.
+description: Led the development of a child home monitoring system combining deep learning models with full-stack software development, capable of detecting hazards and recognizing window-climbing postures to prevent accidents.
 img: assets/img/12.jpg
 importance: 1
 category: computer vision
