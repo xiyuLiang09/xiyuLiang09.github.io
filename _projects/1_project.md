@@ -4,7 +4,7 @@ title: project 1
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: computer vision
 related_publications: true
 ---
 
@@ -16,8 +16,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: Intelligent Child Home Monitoring System based on YOLO and Pose Recognition Models
+    description: Led the development of a child home monitoring system combining deep learning models with full-stack software
+development, capable of detecting hazards and recognizing window-climbing postures to prevent accidents.
     img: /assets/img/12.jpg
     ---
 
