@@ -4,23 +4,15 @@ title: Intelligent Child Home Monitoring System based on YOLO and Pose Recogniti
 description: Led the development of a child home monitoring system combining deep learning models with full-stack software development, capable of detecting hazards and recognizing window-climbing postures to prevent accidents.
 img: assets/img/12.jpg
 importance: 1
-category: computer vision
+category: _computer vision
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Intelligent Child Home Monitoring System based on YOLO and Pose Recognition Models
-    description: Led the development of a child home monitoring system combining deep learning models with full-stack software
-development, capable of detecting hazards and recognizing window-climbing postures to prevent accidents.
-    img: /assets/img/12.jpg
-    ---
+• Led the development of a child home monitoring system combining deep learning models with full-stack software development, capable of detecting hazards and recognizing window-climbing postures to prevent accidents
+• Implemented object and pose recognition with YOLOv7 and PP-TinyPose
+• Enhanced detection models with SEnet, significantly reducing model loss and improving accuracy
+• Innovatively introduced automatic lighting detection and ”electronic fence” technology, enhancing detection stability under varying lighting conditions
+• Responsible for and supervising report writing and presentations, achieved a high project evaluation score of 94/100 (rank 4/66)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,7 +22,7 @@ development, capable of detecting hazards and recognizing window-climbing postur
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/video/Intelligent_Child_Home_Monitoring_System.mp4" title="example video" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
