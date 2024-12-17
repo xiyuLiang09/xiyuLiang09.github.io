@@ -4,7 +4,7 @@ title: Intelligent Child Home Monitoring System
 description: Recognizing Hazards with YOLO and Pose Recognition
 img: assets/img/12.jpg
 importance: 1
-category: _computer vision
+category: computer vision
 related_publications: true
 giscus_comments: true
 toc:
