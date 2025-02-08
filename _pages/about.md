@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
   
 Hi, I am a senior undergraduate student at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I was previously a research assistant in the Spatio-Temporal Big Data and Intelligence Lab, where I conducted research on machine learning and spatio-temporal trajectory data mining under the supervision of Prof. [Shuo Shang](https://scholar.google.com/citations?hl=zh-CN&user=8qdXaOkAAAAJ) and Prof. [Lisi Chen](https://scholar.google.com/citations?user=2YD5wcEAAAAJ&hl=zh-CN). Recently, I completed an unforgettable internship at the Network and Data Security Key Laboratory of Sichuan Province, where I focused on developing a machine translation system for specialized fields, including the intersection of large language models and systems.
 
-I am also a member of the [ColAI](https://github.com/Collaborative-AI) (an open-source organization), where I work closely with Dr. [Enmao Diao](https://diaoenmao.com/).
+I am also a member of the [ColAI](https://github.com/Collaborative-AI), where I work closely with Dr. [Enmao Diao](https://diaoenmao.com/).
 
 Currently, I am working on building more efficient and reliable large language models by optimizing their reasoning processes. My research interests primarily include **machine learning**, **natural language processing** and **data mining**, with a particular focus on the following areas:
 - Large Language Models
